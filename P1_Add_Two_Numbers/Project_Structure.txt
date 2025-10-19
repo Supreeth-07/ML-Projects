@@ -1,0 +1,16 @@
+P1_Add_Two_Numbers/
+│
+├── Data/
+│   └── add.csv                  # Input data file (x, y[, sum])
+│
+├── models/
+│   └── model.pkl                  # Pickled trained model (after training)
+│
+├── src/
+│   ├── data_loader.py            # Load and preprocess CSV
+│   ├── model_trainer.py          # Train and save model
+│   ├── model_evaluator.py        # Evaluate model
+│   ├── predictor.py              # Load model and make predictions
+│
+├── main.py                       # Main script to run the pipeline
+└── requirements.txt              # Optional: Dependencies
