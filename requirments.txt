@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 numpy
 pandas
+=======
+pandas
+numpy
+>>>>>>> 04bd545 (First commit1)
