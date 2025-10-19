@@ -1,0 +1,114 @@
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+conda create -p venv python=3.12 -y
+conda activate "D:\Python Projects\4-ML-Projects\venv"
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Supreeth-07/ML-Projects.git
+git push origin master
+
+git push -u origin main
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+ML-Projects
+ 
+git clone https://github.com/Supreeth-07/ML-Projects.git
+git add .
+git commit -m "First commit"
+git push origin main
+git remote add origin https://github.com/Supreeth-07/ML-Projects.git
+git push --force origin main
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+ s
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+
+
+
+
+
+
