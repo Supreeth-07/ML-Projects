@@ -65,6 +65,12 @@ git cherry-pick faebf13
 * * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
 
 
+git rebase --continue
+git switch main
+git merge recovered   # if needed
+git push origin main
+
+git push --force origin main
 
 
 
